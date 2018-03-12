@@ -138,6 +138,7 @@ int main() {
   }
 }
 ```
+**In short, I'm approaching the idea of solving problems using DSL and C as the only ring to rule them all.**
 
-Why this cannot be an italian project? Because we spend more time learning new features, languages and tools rather than computerizing the country.
+Why this cannot be an italian project?
 
